@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "unknownmc.mcsh.gg",
     "port": 25565,
     "version": "1.19.3"
   },
